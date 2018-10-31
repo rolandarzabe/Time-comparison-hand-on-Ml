@@ -45,4 +45,9 @@ Grid Search Random Forest: 57.98131060600281,
 Random Search Random Forest: 211.35021710395813,
 
 
+*** Please ignore the notes inside my version, some won't make sense since are crops from original notes.
+    I tried to preserve all the code related in the original version, the results seem the same for the outputs.
+    I run the notebooks several times to confirm the results and they were pretty consistent.
+
+
 Most likely I'm missing something very basic. All credits for this example, I'm poorly performing, go to Aurélien Géron and his amazing book.
