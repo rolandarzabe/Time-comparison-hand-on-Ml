@@ -20,7 +20,7 @@ I run the training several times in my laptop and also Colab but the results wer
 Second: The Random Searh takes much longer (like 3 times) than the time it takes to perform the Grid Search. The Grid search performs 90 models iterations and the Random Search performs about half of that, and that is consistent in both notebooks my version and the original from Aurelien Geron, How is it possible to take longer?
 
 
-My version's times:
+<B>My version's times:<B>
 
 Linear Regression: 5.38,
 Decision Tree Reg: 7.04,
