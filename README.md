@@ -20,7 +20,7 @@ I run the training several times in my laptop and also Colab but the results wer
 Second: The Random Searh takes much longer (like 3 times) than the time it takes to perform the Grid Search. The Grid search performs 90 models iterations and the Random Search performs about half of that, and that is consistent in both notebooks my version and the original from Aurelien Geron, How is it possible to take longer?
 
 
-<B>My version's times:<B>
+<B>My version's times:</B>
 
 Linear Regression: 5.38,
 Decision Tree Reg: 7.04,
@@ -33,7 +33,7 @@ Random Search Random Forest: 815.03,
 
 
 
-Original version (Aurélien Geron's)
+<B>Original version (Aurélien Geron's)</B>
 
 Linear Regression: 3.38,
 Decision Tree Reg: 4.96,
@@ -45,12 +45,12 @@ Grid Search Random Forest: 57.98,
 Random Search Random Forest: 211.35,
 
 
-*** I had to install scikit learn 0.20.0 because for some reason google colab's was outdated (0.19.2)
+<B>*** I had to install scikit learn 0.20.0 because for some reason google colab's was outdated (0.19.2)
     You will notice a different order in the notebooks, this is because the book is different from the Git repository, but the code is essentially the same. 
     Please ignore the notes inside my version, some won't make sense since are crops from my personal notes.
     I tried to preserve all the code related in the original version, the results seem the same for the outputs.
     I run the notebooks several times to confirm the results and they were pretty consistent.
-    Please ignore "t6" just is the code for instanciate the model, it doesn't appear in the original notebook
+    Please ignore "t6" just is the code for instanciate the model, it doesn't appear in the original notebook</B>
 
 
 Most likely I'm missing something very basic. All credits for this example, I'm poorly performing, go to Aurélien Géron and his amazing book.
