@@ -45,9 +45,12 @@ Grid Search Random Forest: 57.98,
 Random Search Random Forest: 211.35,
 
 
-*** Please ignore the notes inside my version, some won't make sense since are crops from original notes.
+*** I had to install scikit learn 0.20.0 because for some reason google colab's was outdated (0.19.2)
+    You will notice a different order in the notebooks, this is because the book is different from the Git repository, but the code is essentially the same. 
+    Please ignore the notes inside my version, some won't make sense since are crops from my personal notes.
     I tried to preserve all the code related in the original version, the results seem the same for the outputs.
     I run the notebooks several times to confirm the results and they were pretty consistent.
+    Please ignore "t6" just is the code for instanciate the model, it doesn't appear in the original notebook
 
 
 Most likely I'm missing something very basic. All credits for this example, I'm poorly performing, go to Aurélien Géron and his amazing book.
