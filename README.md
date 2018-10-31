@@ -22,27 +22,27 @@ Second: The Random Searh takes much longer (like 3 times) than the time it takes
 
 My version's times:
 
-Linear Regression: 5.383306980133057,
-Decision Tree Reg: 7.044358968734741,
-Random Forest: 16.985894441604614,
-Cross Val Linear Regression: 2.60886812210083,
-Cross Val Decision Tree Reg: 17.805492401123047,
-Cross Val Random Forest: 94.48191714286804,
-Grid Search Random Forest: 324.1061816215515,
-Random Search Random Forest: 815.0301121221873,
+Linear Regression: 5.38,
+Decision Tree Reg: 7.04,
+Random Forest: 16.98,
+Cross Val Linear Regression: 2.60,
+Cross Val Decision Tree Reg: 17.80,
+Cross Val Random Forest: 94.48,
+Grid Search Random Forest: 324.10,
+Random Search Random Forest: 815.03,
 
 
 
 Original version (Aurélien Geron's)
 
-Linear Regression: 3.3887457847595215,
-Decision Tree Reg: 4.96132755279541,
-Random Forest: 18.24065443284604321,
-Cross Val Linear Regression: 5.0362162590026855,
-Cross Val Decision Tree Reg: 6.812582492828369,
-Cross Val Random Forest: 18.022871255874634,
-Grid Search Random Forest: 57.98131060600281,
-Random Search Random Forest: 211.35021710395813,
+Linear Regression: 3.38,
+Decision Tree Reg: 4.96,
+Random Forest: 18.24,
+Cross Val Linear Regression: 5.03,
+Cross Val Decision Tree Reg: 6.81,
+Cross Val Random Forest: 18.02,
+Grid Search Random Forest: 57.98,
+Random Search Random Forest: 211.35,
 
 
 *** Please ignore the notes inside my version, some won't make sense since are crops from original notes.
